@@ -1,2 +1,1 @@
-# hse-python
-HSE Python Course Repository
+# Python Course Repository
